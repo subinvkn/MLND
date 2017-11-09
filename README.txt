@@ -1,1 +1,1 @@
-Machine Langauage Projects
+Machine Learning Projects
